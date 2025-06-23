@@ -1,0 +1,310 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj": {}
+  },
+  "projects": {
+    "D:\\Xuong_QLTV\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xuong_QLTV\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj",
+        "projectName": "BUS_Xuong",
+        "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj",
+        "packagesPath": "C:\\Users\\ANH TUAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\BUS_Xuong\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ANH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj": {
+                "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj"
+              },
+              "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj": {
+                "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj",
+        "projectName": "DAL_Xuong",
+        "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj",
+        "packagesPath": "C:\\Users\\ANH TUAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ANH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj": {
+                "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj",
+        "projectName": "DTO_Xuong",
+        "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj",
+        "packagesPath": "C:\\Users\\ANH TUAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ANH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj",
+        "projectName": "GUI_QLThuVien",
+        "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj",
+        "packagesPath": "C:\\Users\\ANH TUAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ANH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Xuong_QLTV\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj": {
+                "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj"
+              },
+              "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj": {
+                "projectPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

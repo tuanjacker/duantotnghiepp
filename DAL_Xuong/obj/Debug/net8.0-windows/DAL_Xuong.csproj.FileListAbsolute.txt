@@ -1,0 +1,31 @@
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DAL_Xuong.deps.json
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DAL_Xuong.dll
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DAL_Xuong.pdb
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.dll
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.pdb
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.csproj.AssemblyReference.cache
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.AssemblyInfoInputs.cache
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.AssemblyInfo.cs
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.csproj.CoreCompileInputs.cache
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.sourcelink.json
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.csproj.Up2Date
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.dll
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\refint\DAL_Xuong.dll
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.pdb
+D:\Thư Viện\Xuong_QuanLyThuVien\Source\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\ref\DAL_Xuong.dll
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DAL_Xuong.deps.json
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DAL_Xuong.dll
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DAL_Xuong.pdb
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.dll
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.pdb
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.csproj.AssemblyReference.cache
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.AssemblyInfoInputs.cache
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.AssemblyInfo.cs
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.csproj.CoreCompileInputs.cache
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.csproj.Up2Date
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.dll
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\refint\DAL_Xuong.dll
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\DAL_Xuong.pdb
+D:\Xuong_QLTV\Xuong_QLTV\DAL_Xuong\obj\Debug\net8.0-windows\ref\DAL_Xuong.dll
