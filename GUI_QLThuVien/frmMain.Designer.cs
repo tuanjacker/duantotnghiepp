@@ -322,11 +322,11 @@ namespace GUI_QLThuVien
             txtTitle.AutoSize = true;
             txtTitle.BackColor = Color.Transparent;
             txtTitle.Font = new Font("NSimSun", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtTitle.Location = new Point(546, 21);
+            txtTitle.Location = new Point(527, 21);
             txtTitle.Name = "txtTitle";
-            txtTitle.Size = new Size(102, 27);
+            txtTitle.Size = new Size(267, 27);
             txtTitle.TabIndex = 0;
-            txtTitle.Text = "label1";
+            txtTitle.Text = "Quan ly thu vien ";
             txtTitle.Resize += txtTitle_Resize;
             // 
             // frmMain

@@ -21,3 +21,15 @@ D:\Xuong_QLTV\Xuong_QLTV\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.dll
 D:\Xuong_QLTV\Xuong_QLTV\DTO_Xuong\obj\Debug\net8.0-windows\refint\DTO_Xuong.dll
 D:\Xuong_QLTV\Xuong_QLTV\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.pdb
 D:\Xuong_QLTV\Xuong_QLTV\DTO_Xuong\obj\Debug\net8.0-windows\ref\DTO_Xuong.dll
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.deps.json
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.dll
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.pdb
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.AssemblyInfoInputs.cache
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.AssemblyInfo.cs
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.csproj.CoreCompileInputs.cache
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.sourcelink.json
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.dll
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\refint\DTO_Xuong.dll
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.pdb
+D:\githubcuatuan\duantotnghiepp\DTO_Xuong\obj\Debug\net8.0-windows\ref\DTO_Xuong.dll

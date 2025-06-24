@@ -19,6 +19,7 @@ namespace DAL_Xuong
         public string NhaXuatBan { get; set; }
         public string SoLuongTon { get; set; }
         public string TrangThai { get; set; }
+        public string HinhAnh { get; set; }
         public string NgayTao { get; set; }
 
         public DALSach GetSach(string maSach)

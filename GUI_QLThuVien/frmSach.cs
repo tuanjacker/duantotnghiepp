@@ -82,28 +82,28 @@ namespace GUI_QLThuVien
 
         private void loaddanhsachsach()
         {
-            dgvSach.DataSource = null;
-            dgvSach.DataSource = new BUSSach().GetAllSach();
+            dgvsach.DataSource = null;
+            dgvsach.DataSource = new BUSSach().GetAllSach();
 
             // Safely set header text only if the column exists
-            if (dgvSach.Columns["MaSach"] != null)
-                dgvSach.Columns["MaSach"].HeaderText = "Mã Sách"; if (dgvSach.Columns["TenSach"] != null)
-                dgvSach.Columns["TenSach"].HeaderText = "Tên Sách";
-            if (dgvSach.Columns["TacGia"] != null)
-                dgvSach.Columns["TacGia"].HeaderText = "Tác Giả";
-            if (dgvSach.Columns["TheLoai"] != null)
-                dgvSach.Columns["TheLoai"].HeaderText = "Thể Loại";
-            if (dgvSach.Columns["SoLuong"] != null)
-                dgvSach.Columns["SoLuong"].HeaderText = "Số Lượng";
-            if (dgvSach.Columns["NhaXuatBan"] != null)
-                dgvSach.Columns["NhaXuatBan"].HeaderText = "Nhà Xuất Bản";
+            if (dgvsach.Columns["MaSach"] != null)
+                dgvsach.Columns["MaSach"].HeaderText = "Mã Sách"; if (dgvsach.Columns["TenSach"] != null)
+                dgvsach.Columns["TenSach"].HeaderText = "Tên Sách";
+            if (dgvsach.Columns["TacGia"] != null)
+                dgvsach.Columns["TacGia"].HeaderText = "Tác Giả";
+            if (dgvsach.Columns["TheLoai"] != null)
+                dgvsach.Columns["TheLoai"].HeaderText = "Thể Loại";
+            if (dgvsach.Columns["SoLuong"] != null)
+                dgvsach.Columns["SoLuong"].HeaderText = "Số Lượng";
+            if (dgvsach.Columns["NhaXuatBan"] != null)
+                dgvsach.Columns["NhaXuatBan"].HeaderText = "Nhà Xuất Bản";
 
-            dgvSach.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dgvsach.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
         }
 
         private void dgvSach_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex >= 0 && dgvSach.Rows[e.RowIndex].DataBoundItem is DALSach sach)
+            if (e.RowIndex >= 0 && dgvsach.Rows[e.RowIndex].DataBoundItem is DALSach sach)
             {
                 txtMaSach.Text = sach.MaSach;
                 txtTenSach.Text = sach.TieuDe;
@@ -134,24 +134,24 @@ namespace GUI_QLThuVien
                 (sach.NhaXuatBan != null && sach.NhaXuatBan.ToLower().Contains(keyword))
             ).ToList();
 
-            dgvSach.DataSource = null;
-            dgvSach.DataSource = filteredBooks;
+            dgvsach.DataSource = null;
+            dgvsach.DataSource = filteredBooks;
 
             // Optionally, re-apply column headers and autosize
-            if (dgvSach.Columns["MaSach"] != null)
-                dgvSach.Columns["MaSach"].HeaderText = "Mã Sách";
-            if (dgvSach.Columns["TenSach"] != null)
-                dgvSach.Columns["TenSach"].HeaderText = "Tên Sách";
-            if (dgvSach.Columns["TacGia"] != null)
-                dgvSach.Columns["TacGia"].HeaderText = "Tác Giả";
-            if (dgvSach.Columns["TheLoai"] != null)
-                dgvSach.Columns["TheLoai"].HeaderText = "Thể Loại";
-            if (dgvSach.Columns["SoLuong"] != null)
-                dgvSach.Columns["SoLuong"].HeaderText = "Số Lượng";
-            if (dgvSach.Columns["NhaXuatBan"] != null)
-                dgvSach.Columns["NhaXuatBan"].HeaderText = "Nhà Xuất Bản";
+            if (dgvsach.Columns["MaSach"] != null)
+                dgvsach.Columns["MaSach"].HeaderText = "Mã Sách";
+            if (dgvsach.Columns["TieuDe"] != null)
+                dgvsach.Columns["TieuDe"].HeaderText = "Tiêu Đề";
+            if (dgvsach.Columns["MaTheLoai"] != null)
+                dgvsach.Columns["MaTheLoai"].HeaderText = "Mã Thể loại";
+            if (dgvsach.Columns["MaTacGia"] != null)
+                dgvsach.Columns["MaTacGia"].HeaderText = "Mã Tác Gỉa";
+            if (dgvsach.Columns["NhaXuatBan"] != null)
+                dgvsach.Columns["NhaXuatBan"].HeaderText = "Nhà Xuất Bản";
+            if (dgvsach.Columns["SoLuongTon"] != null)
+                dgvsach.Columns["SoLuongTon"].HeaderText = "Số Lượng Tồn";
 
-            dgvSach.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dgvsach.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
         }
 
         private void btnThem_Click(object sender, EventArgs e)
@@ -199,7 +199,7 @@ namespace GUI_QLThuVien
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-            if (dgvSach.CurrentRow == null || dgvSach.CurrentRow.DataBoundItem is not DALSach selectedSach)
+            if (dgvsach.CurrentRow == null || dgvsach.CurrentRow.DataBoundItem is not DALSach selectedSach)
             {
                 MessageBox.Show("Vui lòng chọn sách cần xóa.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
@@ -299,6 +299,11 @@ namespace GUI_QLThuVien
 
             // Đặt lại focus về trường đầu tiên nếu muốn
             txtMaSach.Focus();
+        }
+
+        private void txtMaSach_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

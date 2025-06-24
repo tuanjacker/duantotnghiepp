@@ -1,54 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Xuong_QLTV\\Xuong_QLTV\\",
+  "WorkspaceRootPath": "D:\\githubcuatuan\\duantotnghiepp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\xuong_qltv\\xuong_qltv\\gui_qlthuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\Xuong_QLTV\\Xuong_QLTV\\gui_qlthuvien\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\Xuong_QLTV\\Xuong_QLTV\\gui_qlthuvien\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\xuong_qltv\\xuong_qltv\\gui_qlthuvien\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916C0252-4B23-4044-B466-C65DC0C0FAD9}|DAL_Xuong\\DAL_Xuong.csproj|d:\\xuong_qltv\\xuong_qltv\\dal_xuong\\dalnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916C0252-4B23-4044-B466-C65DC0C0FAD9}|DAL_Xuong\\DAL_Xuong.csproj|solutionrelative:dal_xuong\\dalnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49EF8C8B-DBAE-407B-AB22-C1F46C026678}|DTO_Xuong\\DTO_Xuong.csproj|d:\\githubcuatuan\\duantotnghiepp\\dto_xuong\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EF8C8B-DBAE-407B-AB22-C1F46C026678}|DTO_Xuong\\DTO_Xuong.csproj|solutionrelative:dto_xuong\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916C0252-4B23-4044-B466-C65DC0C0FAD9}|DAL_Xuong\\DAL_Xuong.csproj|d:\\xuong_qltv\\xuong_qltv\\dal_xuong\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916C0252-4B23-4044-B466-C65DC0C0FAD9}|DAL_Xuong\\DAL_Xuong.csproj|solutionrelative:dal_xuong\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\Xuong_QLTV\\Xuong_QLTV\\gui_qlthuvien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\Xuong_QLTV\\Xuong_QLTV\\gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\Xuong_QLTV\\Xuong_QLTV\\gui_qlthuvien\\frmwellcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\frmwellcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmwellcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\xuong_qltv\\xuong_qltv\\gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\xuong_qltv\\xuong_qltv\\gui_qlthuvien\\frmwellcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmwellcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\xuong_qltv\\xuong_qltv\\gui_qlthuvien\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\githubcuatuan\\duantotnghiepp\\gui_qlthuvien\\frmphisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmphisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,158 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\Program.cs",
-              "RelativeDocumentMoniker": "GUI_QLThuVien\\Program.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\Program.cs*",
-              "RelativeToolTip": "GUI_QLThuVien\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T11:06:06.25Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmSach.cs",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmSach.cs",
-              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmSach.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmSach.cs",
-              "RelativeToolTip": "GUI_QLThuVien\\frmSach.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\DTO_Xuong\\Sach.cs",
+              "RelativeDocumentMoniker": "DTO_Xuong\\Sach.cs",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\DTO_Xuong\\Sach.cs",
+              "RelativeToolTip": "DTO_Xuong\\Sach.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T06:37:21.33Z",
+              "WhenOpened": "2025-06-24T03:54:49.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmSach.cs [Design]",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmSach.cs",
+              "DocumentIndex": 0,
+              "Title": "frmSach.cs",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmSach.cs",
               "RelativeDocumentMoniker": "GUI_QLThuVien\\frmSach.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmSach.cs [Design]",
-              "RelativeToolTip": "GUI_QLThuVien\\frmSach.cs [Design]",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmSach.cs*",
+              "RelativeToolTip": "GUI_QLThuVien\\frmSach.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAWwJcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:53:15.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\Program.cs",
+              "RelativeDocumentMoniker": "GUI_QLThuVien\\Program.cs",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\Program.cs",
+              "RelativeToolTip": "GUI_QLThuVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:52:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmKhachHang.cs",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "GUI_QLThuVien\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:45:02.207Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmWellcome.cs [Design]",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmWellcome.cs",
+              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmWellcome.cs",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmWellcome.cs [Design]",
+              "RelativeToolTip": "GUI_QLThuVien\\frmWellcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:06:35.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmLogin.cs",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmLogin.cs [Design]",
+              "RelativeToolTip": "GUI_QLThuVien\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:05:48.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmMain.cs",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmMain.cs [Design]",
+              "RelativeToolTip": "GUI_QLThuVien\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:25:11.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSach.cs [Design]",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmSach.cs",
+              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmSach.cs",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmSach.cs [Design]*",
+              "RelativeToolTip": "GUI_QLThuVien\\frmSach.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T06:25:51.05Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmMain.cs",
-              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmMain.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmMain.cs [Design]",
-              "RelativeToolTip": "GUI_QLThuVien\\frmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T06:25:11.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DBUtil.cs",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DBUtil.cs",
-              "RelativeDocumentMoniker": "DAL_Xuong\\DBUtil.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DBUtil.cs",
-              "RelativeToolTip": "DAL_Xuong\\DBUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T06:18:12.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmLogin.cs",
-              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmLogin.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmLogin.cs",
-              "RelativeToolTip": "GUI_QLThuVien\\frmLogin.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T05:57:05.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmWellcome.cs",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmWellcome.cs",
-              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmWellcome.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmWellcome.cs",
-              "RelativeToolTip": "GUI_QLThuVien\\frmWellcome.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T11:26:27.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "frmWellcome.cs [Design]",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmWellcome.cs",
-              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmWellcome.cs",
-              "ToolTip": "D:\\Th\u01B0 Vi\u1EC7n\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\frmWellcome.cs [Design]",
-              "RelativeToolTip": "..\\..\\Th\u01B0 Vi\u1EC7n\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\frmWellcome.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T11:06:35.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmLogin.cs",
-              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmLogin.cs",
-              "ToolTip": "D:\\Th\u01B0 Vi\u1EC7n\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\frmLogin.cs [Design]",
-              "RelativeToolTip": "..\\..\\Th\u01B0 Vi\u1EC7n\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T11:05:48.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmNhanVien.cs",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmNhanVien.cs",
-              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmNhanVien.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmNhanVien.cs*",
-              "RelativeToolTip": "GUI_QLThuVien\\frmNhanVien.cs*",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAwGYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T11:03:53.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "frmNhanVien.cs [Design]",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmNhanVien.cs",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmNhanVien.cs",
               "RelativeDocumentMoniker": "GUI_QLThuVien\\frmNhanVien.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\GUI_QLThuVien\\frmNhanVien.cs [Design]*",
-              "RelativeToolTip": "GUI_QLThuVien\\frmNhanVien.cs [Design]*",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "GUI_QLThuVien\\frmNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T11:03:39.523Z",
+              "WhenOpened": "2025-06-24T03:44:55.537Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DALNhanVien.cs",
-              "DocumentMoniker": "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DALNhanVien.cs",
-              "RelativeDocumentMoniker": "DAL_Xuong\\DALNhanVien.cs",
-              "ToolTip": "D:\\Xuong_QLTV\\Xuong_QLTV\\DAL_Xuong\\DALNhanVien.cs",
-              "RelativeToolTip": "DAL_Xuong\\DALNhanVien.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDgAAABJAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "frmPhiSach.cs [Design]",
+              "DocumentMoniker": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmPhiSach.cs",
+              "RelativeDocumentMoniker": "GUI_QLThuVien\\frmPhiSach.cs",
+              "ToolTip": "D:\\githubcuatuan\\duantotnghiepp\\GUI_QLThuVien\\frmPhiSach.cs [Design]",
+              "RelativeToolTip": "GUI_QLThuVien\\frmPhiSach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T06:23:35.132Z"
+              "WhenOpened": "2025-06-24T03:44:49.519Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

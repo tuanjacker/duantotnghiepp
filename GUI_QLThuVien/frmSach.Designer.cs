@@ -55,9 +55,6 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges25 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSach));
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges26 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
             tabSach = new Guna.UI2.WinForms.Guna2TabControl();
             qlSach = new TabPage();
             bttimkiem = new Guna.UI2.WinForms.Guna2Button();
@@ -80,13 +77,13 @@
             txtMaSach = new Guna.UI2.WinForms.Guna2TextBox();
             label1 = new Label();
             txtTimKiem = new Guna.UI2.WinForms.Guna2TextBox();
-            dgvSach = new Guna.UI2.WinForms.Guna2DataGridView();
             qlPhiSach = new TabPage();
             qlLoaiSach = new TabPage();
             qlTacGia = new TabPage();
+            dgvsach = new DataGridView();
             tabSach.SuspendLayout();
             qlSach.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dgvSach).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dgvsach).BeginInit();
             SuspendLayout();
             // 
             // tabSach
@@ -124,6 +121,7 @@
             // 
             // qlSach
             // 
+            qlSach.Controls.Add(dgvsach);
             qlSach.Controls.Add(bttimkiem);
             qlSach.Controls.Add(guna2Button3);
             qlSach.Controls.Add(guna2Button1);
@@ -144,7 +142,6 @@
             qlSach.Controls.Add(txtMaSach);
             qlSach.Controls.Add(label1);
             qlSach.Controls.Add(txtTimKiem);
-            qlSach.Controls.Add(dgvSach);
             qlSach.Location = new Point(4, 44);
             qlSach.Name = "qlSach";
             qlSach.Padding = new Padding(3);
@@ -432,6 +429,7 @@
             txtMaSach.ShadowDecoration.CustomizableEdges = customizableEdges24;
             txtMaSach.Size = new Size(409, 49);
             txtMaSach.TabIndex = 34;
+            txtMaSach.TextChanged += txtMaSach_TextChanged;
             // 
             // label1
             // 
@@ -467,58 +465,6 @@
             txtTimKiem.TabIndex = 27;
             txtTimKiem.TextChanged += txtTimKiem_TextChanged;
             // 
-            // dgvSach
-            // 
-            dataGridViewCellStyle1.BackColor = Color.White;
-            dgvSach.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = Color.FromArgb(100, 88, 255);
-            dataGridViewCellStyle2.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle2.ForeColor = Color.White;
-            dataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.True;
-            dgvSach.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
-            dgvSach.ColumnHeadersHeight = 4;
-            dgvSach.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = Color.White;
-            dataGridViewCellStyle3.Font = new Font("Segoe UI", 9F);
-            dataGridViewCellStyle3.ForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.False;
-            dgvSach.DefaultCellStyle = dataGridViewCellStyle3;
-            dgvSach.GridColor = Color.FromArgb(231, 229, 255);
-            dgvSach.Location = new Point(431, 67);
-            dgvSach.Name = "dgvSach";
-            dgvSach.RowHeadersVisible = false;
-            dgvSach.RowHeadersWidth = 51;
-            dgvSach.Size = new Size(875, 759);
-            dgvSach.TabIndex = 26;
-            dgvSach.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
-            dgvSach.ThemeStyle.AlternatingRowsStyle.Font = null;
-            dgvSach.ThemeStyle.AlternatingRowsStyle.ForeColor = Color.Empty;
-            dgvSach.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = Color.Empty;
-            dgvSach.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = Color.Empty;
-            dgvSach.ThemeStyle.BackColor = Color.White;
-            dgvSach.ThemeStyle.GridColor = Color.FromArgb(231, 229, 255);
-            dgvSach.ThemeStyle.HeaderStyle.BackColor = Color.FromArgb(100, 88, 255);
-            dgvSach.ThemeStyle.HeaderStyle.BorderStyle = DataGridViewHeaderBorderStyle.None;
-            dgvSach.ThemeStyle.HeaderStyle.Font = new Font("Segoe UI", 9F);
-            dgvSach.ThemeStyle.HeaderStyle.ForeColor = Color.White;
-            dgvSach.ThemeStyle.HeaderStyle.HeaightSizeMode = DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            dgvSach.ThemeStyle.HeaderStyle.Height = 4;
-            dgvSach.ThemeStyle.ReadOnly = false;
-            dgvSach.ThemeStyle.RowsStyle.BackColor = Color.White;
-            dgvSach.ThemeStyle.RowsStyle.BorderStyle = DataGridViewCellBorderStyle.SingleHorizontal;
-            dgvSach.ThemeStyle.RowsStyle.Font = new Font("Segoe UI", 9F);
-            dgvSach.ThemeStyle.RowsStyle.ForeColor = Color.FromArgb(71, 69, 94);
-            dgvSach.ThemeStyle.RowsStyle.Height = 29;
-            dgvSach.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255);
-            dgvSach.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94);
-            dgvSach.CellDoubleClick += dgvSach_CellDoubleClick;
-            // 
             // qlPhiSach
             // 
             qlPhiSach.Location = new Point(4, 44);
@@ -547,6 +493,15 @@
             qlTacGia.Text = "Tác Giả";
             qlTacGia.UseVisualStyleBackColor = true;
             // 
+            // dgvsach
+            // 
+            dgvsach.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvsach.Location = new Point(467, 76);
+            dgvsach.Name = "dgvsach";
+            dgvsach.RowHeadersWidth = 51;
+            dgvsach.Size = new Size(837, 727);
+            dgvsach.TabIndex = 47;
+            // 
             // frmSach
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -560,7 +515,7 @@
             tabSach.ResumeLayout(false);
             qlSach.ResumeLayout(false);
             qlSach.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dgvSach).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dgvsach).EndInit();
             ResumeLayout(false);
         }
 
@@ -587,10 +542,10 @@
         private Guna.UI2.WinForms.Guna2TextBox txtMaSach;
         private Label label1;
         private Guna.UI2.WinForms.Guna2TextBox txtTimKiem;
-        private Guna.UI2.WinForms.Guna2DataGridView dgvSach;
         private TabPage qlPhiSach;
         private TabPage qlLoaiSach;
         private TabPage qlTacGia;
         private Guna.UI2.WinForms.Guna2Button bttimkiem;
+        private DataGridView dgvsach;
     }
 }

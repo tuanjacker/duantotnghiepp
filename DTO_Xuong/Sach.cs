@@ -18,22 +18,9 @@ namespace DTO_Xuong
             public string NhaXuatBan { get; set; }
             public string SoLuongTon { get; set; }
             public string TrangThai { get; set; }
+            public string HinhAnh {  get; set; }
             public string NgayTao { get; set; }
-            public sach(string maSach, string tieuDe, string theLoai, string tacGia, string nhaXuatBan, string soLuong)
-            {
-                MaSach = maSach;
-                TieuDe = tieuDe;
-                MaTheLoai = theLoai;
-                MaTacGia = tacGia;
-                NhaXuatBan = nhaXuatBan;
-                SoLuongTon = soLuong.ToString();
-                TrangThai = "Available"; // Assuming default status
-                NgayTao = DateTime.Now.ToString("yyyy-MM-dd"); // Assuming current date as creation date
-
-
-
-            }
-            public sach() { }
+           
         }
     }
 }
